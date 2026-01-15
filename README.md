@@ -1,58 +1,34 @@
-# Django Task Manager
+# Django Task Management Dashboard
 
+A full-stack task and project management dashboard built with Django.  
+This project demonstrates backend development skills combined with a project management mindset.
 
+## 🚀 Features
+- Project creation and management
+- Task tracking (To Do / In Progress / Completed)
+- Project detail pages
+- Simple dashboard with statistics
+- Admin panel for managing data
 
-A full-stack web application built with Django to manage tasks and workflows.
-
-This project demonstrates backend logic, basic frontend integration,
-
-and task-based planning concepts.
-
-
-
-## Features
-
-- Create, update, and delete tasks
-
-- Task status management (To Do / In Progress / Done)
-
-- Simple and clean UI
-
-- Structured backend logic
-
-
-
-## Tech Stack
-
+## 🛠 Tech Stack
 - Python
-
 - Django
-
 - HTML
-
 - CSS
+- SQLite
 
-- JavaScript
+## 🎯 Purpose
+This project was built as a personal portfolio project to demonstrate:
+- Full-stack web development skills
+- Understanding of project workflows
+- Task organization and tracking
+- Clean structure and scalability
 
+## 📸 Screenshots
+_(Optional – can be added later)_
 
+## 👩‍💻 Author
+**Zainab AbuSaada**  
+Aspiring Full-Stack Developer 
 
-## Project Management Perspective
-
-- Tasks are broken down into manageable units
-
-- Clear task lifecycle (planning → execution → completion)
-
-- Demonstrates organization, prioritization, and responsibility tracking
-
-
-
-## Purpose
-
-This project is part of my portfolio to showcase:
-
-- Full-stack development skills
-
-- Structured thinking and task planning
-
-- Readiness to work within a team or project-based
 
